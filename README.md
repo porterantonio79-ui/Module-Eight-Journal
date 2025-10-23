@@ -193,3 +193,34 @@ Tools and Services: $15,000 - $20,000 (licenses, testing, app store fees)
 
 This evaluation provides The Gaming Room with comprehensive insights into platform selection and development requirements for expanding "Draw It or Lose It" to a multi-platform, web-based gaming application.
 
+Portfolio Submission: Software Design Document for The Gaming Room
+Project Overview
+The Gaming Room is a game development company that sought to expand their existing game "Draw It or Lose It" from an Android-exclusive application to a web-based, cross-platform gaming solution. Their primary requirement was to create a multiplayer gaming environment where teams could compete in real-time drawing and guessing challenges across multiple platforms including web, mobile, and desktop. The software needed to support multiple concurrent games, team management, image rendering, and secure user authentication while maintaining scalability and performance across different operating systems.
+
+Reflection Questions
+Briefly summarize The Gaming Room client and their software requirements. Who was the client? What type of software did they want you to design?
+
+The Gaming Room is a game development company looking to transform their single-platform drawing game into a cross-platform multiplayer experience. They required a web-based gaming application that could support multiple concurrent games, team competition, real-time interaction, and secure user management across various operating systems including Windows, macOS, Linux, and mobile platforms.
+
+What did you do particularly well in developing this documentation?
+
+I excelled in creating a comprehensive system architecture section that clearly outlined the client-server model and database design. The documentation effectively balanced technical depth with client accessibility, ensuring both technical team members and non-technical stakeholders could understand the proposed solution. The platform evaluation section was particularly strong, providing clear rationale for technology choices based on specific client requirements.
+
+What about the process of working through a design document did you find helpful when developing the code?
+
+The process of creating detailed UML diagrams and system architecture specifications proved invaluable. By thoroughly mapping out the class relationships, data flow, and system components beforehand, I established a clear roadmap that significantly reduced development ambiguity. The security and performance considerations documented early in the process helped prevent costly redesigns during implementation.
+
+If you could choose one part of your work on these documents to revise, what would you pick? How would you improve it?
+
+I would enhance the user interface mockups and user experience flow diagrams. While the functional requirements were well-documented, the visual design specifications could have been more detailed with interactive prototypes. Improving this section would involve creating more comprehensive wireframes and user journey maps to better communicate the intended user experience to both the client and development team.
+
+How did you interpret the user's needs and implement them into your software design? Why is it so important to consider the user's needs when designing?
+
+I identified key user needs through the client's requirements: seamless cross-platform accessibility, intuitive team management, real-time game interaction, and reliable performance. These were translated into design decisions such as implementing responsive web design, creating efficient real-time communication protocols, and designing straightforward team creation workflows. Considering user needs is crucial because it ensures the final product actually solves the intended problems and provides value to end-users, rather than just meeting technical specifications. A technically perfect solution that doesn't address user needs will ultimately fail in adoption and satisfaction.
+
+How did you approach designing software? What techniques or strategies would you use in the future to analyze and design a similar software application?
+
+I employed a structured approach starting with requirements analysis, followed by system architecture planning, technology evaluation, and detailed component design. Key techniques included creating UML diagrams for system visualization, conducting comparative technology analysis, and developing security and performance specifications early in the process. For future projects, I would incorporate more iterative prototyping and user testing cycles, implement more detailed risk assessment matrices, and employ behavior-driven development (BDD) scenarios to better capture user requirements from the outset.
+
+
+
